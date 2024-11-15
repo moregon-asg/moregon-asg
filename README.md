@@ -1,6 +1,6 @@
 ## Hi there 👋 :coffee:
 
-- 🔭 I’m currently learning Deepstream and Graph Composer.
+- 🔭 I’m currently learning NVIDIA AI.
 
 - :books: Books I'm reading
   - Ask Iwata
