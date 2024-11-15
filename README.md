@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋 :coffee:
 
+- 🔭 I’m currently learning Deepstream and Graph Composer.
+
+- :books: Books I'm reading
+  - Ask Iwata
+  - AI Snake Oil
 <!--
 **moregon-asg/moregon-asg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
