@@ -3,7 +3,7 @@
 - 🔭 I’m currently learning NVIDIA AI.
 
 - :books: Books I'm reading
-  - Ask Iwata
+  - [x] Ask Iwata
   - AI Snake Oil
 <!--
 **moregon-asg/moregon-asg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
